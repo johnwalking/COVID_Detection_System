@@ -7,3 +7,6 @@ https://watson-john.medium.com/transfer-learning-gradcam-with-flask-implementati
 4. 運行train 以訓練模型
 5. 運行Gradcam 已觀察模型抓取特徵。
 6. 運行API.py展示網頁
+
+最終畫面：
+![image](https://github.com/johnwalking/COVID_Detection_System/blob/main/1*ZxwdLGM41El-nwW0pFZRuw.png)
