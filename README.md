@@ -9,4 +9,6 @@ https://watson-john.medium.com/transfer-learning-gradcam-with-flask-implementati
 6. 運行API.py展示網頁
 
 最終畫面：
+
+
 ![image](https://github.com/johnwalking/COVID_Detection_System/blob/main/1*ZxwdLGM41El-nwW0pFZRuw.png)
